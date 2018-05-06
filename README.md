@@ -399,7 +399,7 @@ Listed below are some of the add-on patterns and recipes that can be found in
 
 ### Community addons
 
-- [webpack-serve-waitpage](https://github.com/elisherer/webpack-serve-waitpage) ([elisherer](https://github.com/elisherer))
+- [webpack-serve-waitpage](https://github.com/elisherer/webpack-serve-waitpage) ([elisherer](https://github.com/elisherer)) - Wait page for showing progress in the browser while the bundle is being compiled.
 
 ## Contributing
 
